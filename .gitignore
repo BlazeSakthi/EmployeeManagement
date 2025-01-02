@@ -3,3 +3,6 @@
 /build/
 /.idea/
 *.log
+.classpath
+.project
+.settings/
